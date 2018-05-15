@@ -1,7 +1,6 @@
 //for ([initialization]; [condition]; [iteration]) {
   [loopBody]
 }//
-'use strict';
 function theBeatlesPlay(musicians, instruments){
   var allMusicians =[];
   for (var i=0; i < musicians.length; i++){
