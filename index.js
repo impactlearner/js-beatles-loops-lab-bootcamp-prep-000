@@ -1,5 +1,5 @@
 //for ([initialization]; [condition]; [iteration]) {
-  [loopBody]
+  
 }//
 function theBeatlesPlay(musicians, instruments){
   var allMusicians =[];
